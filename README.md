@@ -3,7 +3,7 @@
 **A curated collection of IT Project Management templates inspired by Fortune 500 methodologies (Amazon, Google, Microsoft, Accenture).**
 
 ## 🎯 Goal
-To bridge the gap between Junior IT Professionals and Senior Leadership by providing industry-standard artifacts. Whether you are running a small Agile sprint or a multi-million dollar Digital Transformation, this repo has the "Chief Technology Officer" approved toolkit.
+To bridge the gap between Junior IT Professionals and Senior Leadership by providing industry-standard artifacts. Whether you are running a small Agile sprint or a multi-million dollar Digital Transformation, this repo has the "**Chief Technology Officer**" approved toolkit.
 
 ## 📂 Repository Structure
 
